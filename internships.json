@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Intern",
+    "company": "TechCorp",
+    "location": "Remote",
+    "stipend": "₹10,000/month",
+    "domain": "Web Development",
+    "description": "Frontend development using HTML, CSS, JavaScript",
+    "created_at": "2026-10-18T15:07:06.536Z"
+  },
+  {
+    "id": 2,
+    "title": "Data Analyst Intern",
+    "company": "DataWorks",
+    "location": "Chennai",
+    "stipend": "₹12,000/month",
+    "domain": "Data Science",
+    "description": "Analyzing datasets using Python and SQL",
+    "created_at": "2026-10-18T15:07:06.537Z"
+  },
+  {
+    "id": 3,
+    "title": "Python Developer",
+    "company": "AI Labs",
+    "location": "Remote",
+    "stipend": "₹15,000/month",
+    "domain": "Web Development",
+    "description": "Building APIs",
+    "created_at": "2026-10-18T15:09:50.684Z"
+  }
+]
